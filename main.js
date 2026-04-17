@@ -1,4 +1,5 @@
 console.log("Ook hallo wereld vanaf Javascript!");
+
 import * as maplibregl from "https://cdn.skypack.dev/maplibre-gl";
 
 const map = new maplibregl.Map({
@@ -7,3 +8,4 @@ const map = new maplibregl.Map({
     center: [0, 0], // starting position [lng, lat]
     zoom: 1 // starting zoom
 });
+
