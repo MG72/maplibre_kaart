@@ -1,1 +1,1 @@
-<script type="module" src="main.js"></script>
+console.log("Ook hallo wereld vanaf Javascript!");
